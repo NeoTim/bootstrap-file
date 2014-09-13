@@ -1,5 +1,5 @@
 {
-  "name": "joelcoxokc/bootstrap-fileInput",
+  "name": "joelcoxokc/bootstrap-file",
   "version": "1.0.0",
   "description": "Standardizes the file input field to look like a Bootstrap button in all browsers",
   "license": "MIT",
@@ -14,12 +14,12 @@
     "tests"
   ],
   "main": [
-    "./bootstrap-fileInput.js"
+    "./bootstrap-file.js"
   ],
   "dependencies": {
     "jquery": "~1.7.1"
   },
-  "homepage": "https://github.com/joelcoxokc/bootstrap-fileInput",
+  "homepage": "https://github.com/joelcoxokc/bootstrap-file",
   "authors": [
     "joelcoxokc <joelcox@hisimagination.com>"
   ],
@@ -27,5 +27,12 @@
     "bootstrap",
     "file",
     "form"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
   ]
 }
