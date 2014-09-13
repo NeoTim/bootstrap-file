@@ -27,12 +27,5 @@
     "bootstrap",
     "file",
     "form"
-  ],
-  "moduleType": [
-    "amd",
-    "es6",
-    "globals",
-    "node",
-    "yui"
   ]
 }
